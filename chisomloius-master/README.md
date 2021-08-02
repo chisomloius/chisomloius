@@ -1,11 +1,12 @@
-### Hi there, I'm  Chisomloius - aka [Dimaria][website] 👋
+## Hi there, I'm  Chisomloius - aka [Dimaria][website] 👋
 
 [![Website](https://img.shields.io/website?label=chisomloius.com&style=for-the-badge&url=https%3A%2F%2Fchisomloius.gitub.io)](https://chisomloius.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchisomloius&screen_name=chisomloius)
 
-## I'm a Brother, Researcher, Energy Enthusisat, Developer, and Teacher!!
+### I'm a Brother, Researcher, Energy Enthusisat, Developer, and Teacher!!
 
 - 🔭 I just launched my first webiste: [Dimaria's web](www.chisomloius.github.io)
+-    I am currently building a wishlist website for people who are ill or need a special need
 - 🌱 I’m currently learning everything in between Web Dev, Data Science and A.I. 🤣
 - 👯 I’m looking to collaborate with other content creators to build something that creates values for others
 - 🥅 My 2021 Goal: Contribute more to Open Source projects and add more knowledge to the communities
@@ -38,6 +39,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -48,7 +50,7 @@
 - [STACKr News Shorts - Issue 3 - Web Dev Highlights](https://www.youtube.com/watch?v=MnqIcetrBTI)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/chisomloius)
 
 ---
 
@@ -105,11 +107,14 @@
 [website]: https://chisomloius.com
 [twitter]: https://twitter.com/chisomloius
 [youtube]: https://youtube.com/chisomloius
-[instagram]: https://facebook.com/chisomloius
+[facebook]: https://facebook.com/chisomloius
 [linkedin]: https://linkedin.com/in/chisomokoye
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
+[nodeplalisyt]:
+[sqlplaylist]:
+[]:
+[]:
 
