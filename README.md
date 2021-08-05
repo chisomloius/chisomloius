@@ -1,13 +1,14 @@
-## Hi there, I'm  Chisomloius - aka [Dimaria][website] 👋
+## Hi there, I'm  Chisomloius - aka [Dimaria][website] 👋 
 
 [![Website](https://img.shields.io/website?label=chisomloius.com&style=for-the-badge&url=https%3A%2F%2Fchisomloius.gitub.io)](https://chisomloius.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chisomloius?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchisomloius&screen_name=chisomloius)
+
 
 [![LinkedIn Connect](https://img.shields.io/linekdin/connect/chisomokoye?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://linkedin.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchisomloius&screen_name=chisomloius)
 
 <br/>
 
-### I'm a Brother, Researcher, Energy Enthusisat, Developer, and Teacher!!
+### I'm a Brother , Researcher, Energy Enthusisat, Developer, and Teacher!!
 
 - 🔭 I launched my first webiste some few weeks back: [Dimaria web](https://www.chisomloius.github.io)
 -    I am currently building a wishbook website for people who are either ill or terminally ill.
@@ -42,7 +43,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-
+<br/>
 
 ### 📺 Recommended YouTube Learning Videos
 
@@ -54,10 +55,11 @@
 - [STACKr News Shorts - Issue 3 - Web Dev Highlights](https://www.youtube.com/watch?v=MnqIcetrBTI)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/chisomloius)
+➡️ [more videos...](https://www.youtube.com/playlist?list=PL6JKJTY2giLWoW3eaR_PWN5fzYB1HwBkm)
 
 ---
 
+<br/>
 <br/>
 
 ### 📕 Recommended Blog Posts
@@ -73,10 +75,10 @@
 ➡️ [more blog posts...](https://codestackr.com)
 
 ---
-
+<br/>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: My Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
@@ -91,7 +93,7 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: My GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.chisomloius.vercel.app/api?username=chisomloius&show_icons=true&hide_border=true" />
 
@@ -102,12 +104,20 @@
 [twitter]: https://twitter.com/chisomloius
 [facebook]: https://facebook.com/chisomloius
 [linkedin]: https://linkedin.com/in/chisomokoye
+
 <br/>
+
 [htmlplaylist]
 [htmlplaylist]
 [htmlplaylist]
 [htmlplaylist]
 [htmlplaylist]
+[cssplaylist]
+[cssplaylist]
+[cssplaylist]
+[cssplaylist]
+[cssplaylist]
+[jsplaylis]
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
