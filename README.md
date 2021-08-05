@@ -1,6 +1,6 @@
 ## Hi there, I'm  Chisomloius - aka [Dimaria][website] 👋 
 
-[![Website](https://img.shields.io/website?label=chisomloius.com&style=for-the-badge&url=https%3A%2F%2Fchisomloius.gitub.io)](https://chisomloius.com)
+[![Website](https://img.shields.io/website?label=chisomloius.github.io&style=for-the-badge&url=https%3A%2F%2Fchisomloius.gitub.io)](https://chisomloius.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chisomloius?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchisomloius&screen_name=chisomloius)
 
 
@@ -44,14 +44,9 @@
 
 <br/>
 
-### 📺 Recommended YouTube Learning Videos
+### 📺 Recommended YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Auth0 Rap Video 🤯, Build A Portfolio, and Giving Away Money 💸 // STACKr News Weekly - Issue 4](https://www.youtube.com/watch?v=5b9KZRPOwP0)
-- [STACKr News Shorts - Issue 3 - MongoDB .live Event Recordings](https://www.youtube.com/watch?v=mogH5SfyzLQ)
-- [STACKr News Shorts - Issue 3 - Useful Beginner Level JavaScript Code Snippets](https://www.youtube.com/watch?v=t57IZ0lP0mY)
-- [STACKr News Shorts - Issue 3 - Perf as a Job, Frontend Being Consumed, and How Much to Bill Clients](https://www.youtube.com/watch?v=STtPjRrF9s0)
-- [STACKr News Shorts - Issue 3 - Web Dev Highlights](https://www.youtube.com/watch?v=MnqIcetrBTI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/playlist?list=PL6JKJTY2giLWoW3eaR_PWN5fzYB1HwBkm)
@@ -60,18 +55,19 @@
 
 <br/>
 
-### 📕 Latest Blog Posts
+### 📕 Recommended Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://medium.com/@chisomloius)
 
 ---
+
 <br/>
 
 <details>
-  <summary>:zap: My Recent GitHub Activity</summary>
+  <summary>:zap:🆕 My Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
