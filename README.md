@@ -4,14 +4,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/chisomloius?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchisomloius&screen_name=chisomloius)
 
 
-[![LinkedIn Connect](https://img.shields.io/linekdin/connect/chisomokoye?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://linkedin.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchisomloius&screen_name=chisomloius)
-
 <br/>
 
 ### I'm a Brother , Researcher, Energy Enthusisat, Developer, and Teacher!!
 
 - 🔭 I launched my first webiste some few weeks back: [Dimaria web](https://www.chisomloius.github.io)
--    I am currently building a wishbook website for people who are either ill or terminally ill.
+-  👨‍💼  I am currently building a wishbook website for people who are either ill or terminally ill.
 - 🌱 I’m currently learning everything in between Web Dev. , D.S. and A.I.
 - 🤣  I'm do blogging on random topics and love [Ted-Ed Videos](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
 - 👯 Ultimate Outlook: Have a start that build free solutions for various types of communities with other content creators.
@@ -43,6 +41,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+
 <br/>
 
 ### 📺 Recommended YouTube Learning Videos
@@ -60,16 +59,10 @@
 ---
 
 <br/>
-<br/>
 
-### 📕 Recommended Blog Posts
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
@@ -95,7 +88,7 @@
 <details>
   <summary>:zap: My GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.chisomloius.vercel.app/api?username=chisomloius&show_icons=true&hide_border=true" />
+  <img align="left" alt="chisomloius's GitHub Stats" src="https://github-readme-stats.chisomloius.vercel.app/api?username=chisomloius&show_icons=true&hide_border=true" />
 
 </details>
 
