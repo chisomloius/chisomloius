@@ -3,15 +3,19 @@
 [![Website](https://img.shields.io/website?label=chisomloius.com&style=for-the-badge&url=https%3A%2F%2Fchisomloius.gitub.io)](https://chisomloius.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chisomloius?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchisomloius&screen_name=chisomloius)
 
+[![LinkedIn Connect](https://img.shields.io/linekdin/connect/chisomokoye?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://linkedin.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchisomloius&screen_name=chisomloius)
+
+<br/>
+
 ### I'm a Brother, Researcher, Energy Enthusisat, Developer, and Teacher!!
 
-- 🔭 I just launched my first webiste: [Dimaria web](www.chisomloius.github.io)
+- 🔭 I launched my first webiste some few weeks back: [Dimaria web](https://www.chisomloius.github.io)
 -    I am currently building a wishbook website for people who are either ill or terminally ill.
-- 🌱 I’m currently learning everything in between Web Dev, Data Science and A.I
-- 🤣  I'm do blogging on random topics and love [Ted-Ed](www.youtube.com/ted-ed)
-- 👯 I’m looking to collaborate with other content creators to build something that creates values for others.
-- 🥅 My 2021 Goal: Contribute more to Open Source projects and add more knowledge to the communities.
-- ⚡ Fun fact: I love to travel, watch sports and drink beer.
+- 🌱 I’m currently learning everything in between Web Dev. , D.S. and A.I.
+- 🤣  I'm do blogging on random topics and love [Ted-Ed Videos](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
+- 👯 Ultimate Outlook: Have a start that build free solutions for various types of communities with other content creators.
+- 🥅 My 2021 Goal: contribute to Open Source projects and build more knowledge repository on my topic interest.
+- ⚡ Fun fact: I love to travel, play sports and drink beer.
 
 ### Let's Connect:
 
@@ -39,6 +43,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
+
 ### 📺 Recommended YouTube Learning Videos
 
 <!-- YOUTUBE:START -->
@@ -54,6 +59,7 @@
 ---
 
 <br/>
+
 ### 📕 Recommended Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -77,7 +83,7 @@
 2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
 3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -96,14 +102,19 @@
 [twitter]: https://twitter.com/chisomloius
 [facebook]: https://facebook.com/chisomloius
 [linkedin]: https://linkedin.com/in/chisomokoye
-
+<br/>
+[htmlplaylist]
+[htmlplaylist]
+[htmlplaylist]
+[htmlplaylist]
+[htmlplaylist]
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [nodeplalisyt]:
 [sqlplaylist]:
-[]:
+[powerbiplaylist]:
 []:
 []:
 []:
