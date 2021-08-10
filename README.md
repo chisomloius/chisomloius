@@ -6,15 +6,19 @@
 
 <br/>
 
+<img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="500" height="320" />
+
+
+
 ### I'm a Brother , Researcher, Energy Enthusisat, Developer, and Teacher!!
 
 - 🔭 I launched my first webiste some few weeks back: [Dimaria web](https://www.chisomloius.github.io)
 -  👨‍💼  I am currently building a wishbook website for people who are either ill or terminally ill.
 - 🌱 I’m currently learning everything in between Web Dev. , D.S. and A.I.
-- 🤣  I'm do blogging on random topics and love [Ted-Ed Videos](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
-- 👯 Ultimate Outlook: Have a start that build free solutions for various types of communities with other content creators.
+- 🆓 I'm do blogging on random topics and love [Ted-Ed Videos](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
+- 💚 Ultimate Outlook: Have a start that build free solutions for various types of communities with other content creators.
 - 🥅 My 2021 Goal: contribute to Open Source projects and build more knowledge repository on my topic interest.
-- ⚡ Fun fact: I love to travel, play sports and drink beer.
+- \u{1F30E} Fun fact: I love to travel, play sports and drink beer.
 
 ### Let's Connect:
 
@@ -24,6 +28,7 @@
 [<img align="left" alt="chisomloius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="chisomloius | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+<br/>
 
 ### Languages and Tools:
 
