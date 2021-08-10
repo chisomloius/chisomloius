@@ -17,8 +17,8 @@
 - 🌱 I’m currently learning everything in between Web Dev. , D.S. and A.I.
 - 🆓 I'm do blogging on random topics and love [Ted-Ed Videos](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
 - 💚 Ultimate Outlook: Have a start that build free solutions for various types of communities with other content creators.
-- 🥅 My 2021 Goal: contribute to Open Source projects and build more knowledge repository on my topic interest.
-- \u{1F30E} Fun fact: I love to travel, play sports and drink beer.
+- \u{1F4C8} My 2021 Goal: contribute to Open Source projects and build more knowledge repository on my topic interest.
+- Fun fact: I love to travel, play sports and drink beer.
 
 ### Let's Connect:
 
@@ -45,9 +45,11 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][pythonplaylist]
 
 
-<br/>
+<br />
+<br />
 
 ### 📺 Recommended YouTube Videos
 
@@ -105,3 +107,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[pythonplaylist]: https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
