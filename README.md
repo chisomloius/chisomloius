@@ -1,26 +1,23 @@
 ## Hi there, I'm  Chisomloius - aka [Dimaria][website] 👋 
 
-[![Website](https://img.shields.io/website?label=chisomloius.github.io&style=for-the-badge&url=https%3A%2F%2Fchisomloius.gitub.io)](https://chisomloius.com)
+[![Website](https://img.shields.io/website?label=chisomloius.github.io&style=for-the-badge&url=https%3A%2F%2Fchisomloius.github.io)](https://chisomloius.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chisomloius?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchisomloius&screen_name=chisomloius)
-
+<img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="300" height="150" />
 
 <br/>
 
-<img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="500" height="320" />
-
-
-
 ### I'm a Brother , Researcher, Energy Enthusisat, Developer, and Teacher!!
 
-- 🔭 I launched my first webiste some few weeks back: [Dimaria web](https://www.chisomloius.github.io)
+- 🔭 I launched my first webiste some few weeks back: [website](https://www.chisomloius.github.io)
 -  👨‍💼  I am currently building a webiste called "healthbook" so that communities everywhere in Afica can get Health Care Centers near them fromthe goodswill of others across the globe.
 - 🌱 I’m currently learning everything in between Web Dev. , D.S. and A.I.
-- 📖 [Resume]
+- 📖 Check out my [Resume].
 - 💚 Ultimate Outlook: Have a start that build free solutions for various types of communities with other content creators.
 - ⏫ My 2021 Goal is contribute to Open Source projects and build more knowledge repository on my topic interest.
-- 🆓 In my free time I blogg on [Medium](https://medium.com/@chisomloius) and watch [Ted-Ed YouTube Videos](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
-- 💓 I love to travel, play sports and drink beer.
-- 💬 Human lanugages: English(Pro), German(Bas), Igbo(Mid).
+- 🆓 In my free time I blog on my [Medium](https://medium.com/@chisomloius) & watch [Ted-Ed YouTube Videos](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
+- 💓 I love to travel, play sports & drink beer.
+- 💬 Human lanugages: English(Pro), German(Bas) & Igbo(Mid).
+<br />
 
 ### Let's Connect:
 
@@ -49,7 +46,6 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][pythonplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][pythonplaylist]
 
-<br />
 <br />
 
 ### 📺 Recommended YouTube Videos
@@ -82,8 +78,6 @@
 </details>
 
 ---
-<br />
-<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -92,25 +86,18 @@
 
 </details>
 
----
+
+
 <br />
 <br />
 
 [Resume]: https://drive.google.com/file/d/hgieniweihf45tyun_/view
-[More videos...]:https://www.youtube.com/channel/UCKj4l9J927zbm49QhPl29eg
-
-
-<br />
-<br />
+[More videos...]:https://www.youtube.com/
 [youtube]: https://youtube.com/chisomloius
-[website]: https://chisomloius.com
+[website]: https://chisomloius.github.io
 [twitter]: https://twitter.com/chisomloius
 [facebook]: https://facebook.com/chisomloius
 [linkedin]: https://linkedin.com/in/chisomokoye
-
-<br />
-<br />
-
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [gitplayplist]: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
 [jsplaylist]: https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw
