@@ -13,14 +13,14 @@
 ### I'm a Brother , Researcher, Energy Enthusisat, Developer, and Teacher!!
 
 - 🔭 I launched my first webiste some few weeks back: [Dimaria web](https://www.chisomloius.github.io)
--  👨‍💼  I am currently building a healthbook website for people who are ill and can't afford to pay their bills and build hospitals communities everywhere terminally ill.
+-  👨‍💼  I am currently building a webiste called "healthbook" so that communities everywhere in Afica can get Health Care Centers near them fromthe goodswill of others across the globe.
 - 🌱 I’m currently learning everything in between Web Dev. , D.S. and A.I.
-- \u{1F4D3}[Resume]
+- 📖 [Resume]
 - 💚 Ultimate Outlook: Have a start that build free solutions for various types of communities with other content creators.
--  My 2021 Goal: contribute to Open Source projects and build more knowledge repository on my topic interest.
-- 🆓 I'm do random topic blogging on [Medium](https://medium.com/@chisomloius)t and watching [Ted-Ed Videos](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
-- Fun fact: I love to travel, play sports and drink beer.
-- Human lanugages: English(Pro), German(Bas), Igbo(Mid).
+- ⏫ My 2021 Goal is contribute to Open Source projects and build more knowledge repository on my topic interest.
+- 🆓 In my free time I blogg on [Medium](https://medium.com/@chisomloius) and watch [Ted-Ed YouTube Videos](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
+- 💓 I love to travel, play sports and drink beer.
+- 💬 Human lanugages: English(Pro), German(Bas), Igbo(Mid).
 
 ### Let's Connect:
 
@@ -37,7 +37,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][webplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
@@ -47,7 +47,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][gitplaylist]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][pythonplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][pythonplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][pythondevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][pythonplaylist]
 
 <br />
 <br />
@@ -116,4 +116,4 @@
 [jsplaylist]: https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [pythonplaylist]: https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
-[webdevplaylist]: https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw
+[webdevplaylist]: https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Swpush
