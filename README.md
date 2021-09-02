@@ -12,7 +12,7 @@
 -  👨‍💼  I am currently building a webiste called "healthbook" so that communities everywhere in Afica can get Health Care Centers near them fromthe goodswill of others across the globe.
 - 🌱 I’m currently learning everything in between Web Dev. , D.S. and A.I.
 - 📖 Check out my [Resume].
-- 💚 Ultimate Outlook: Have a start that build free solutions for various types of communities with other content creators.
+- 💚 Ultimate Outlook: build free tech solutions for various types of communities with other content creators.
 - ⏫ My 2021 Goal is contribute to Open Source projects and build more knowledge repository on my topic interest.
 - 🆓 In my free time I blog on my [Medium](https://medium.com/@chisomloius) & watch [Ted-Ed YouTube Videos](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
 - 💓 I love to travel, play sports & drink beer.
@@ -39,35 +39,12 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gitplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][gitplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][gitplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][pythonplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][pythonplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][pythonplaylist]
 
-<br />
-
-### 📺 Recommended YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [More videos...]
-
----
-
-<br />
-<br />
-
-### 📕 Recommended Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
----
-<br />
 <br />
 
 <details>
@@ -99,7 +76,6 @@
 [facebook]: https://facebook.com/chisomloius
 [linkedin]: https://linkedin.com/in/chisomokoye
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[gitplayplist]: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
 [jsplaylist]: https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [pythonplaylist]: https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
