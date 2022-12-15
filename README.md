@@ -6,7 +6,7 @@
 
 <br/>
 
-### I'm a Brother , Researcher, Energy Enthusisat, Developer, and Teacher!!
+### I'm a Brother, Data Enthusisat/Developer, Researcher & Teacher!!
 
 - 🔭 I launched my first webiste some few weeks back: [website](https://www.chisomloius.github.io)
 -  👨‍💼  I am currently building a webiste called "healthbook" so that communities everywhere in Afica can get Health Care Centers near them fromthe goodswill of others across the globe.
