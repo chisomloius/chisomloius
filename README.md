@@ -8,7 +8,7 @@
 
 ### I'm a Brother, Data Enthusisat/Developer, Researcher & Teacher!!
 
-- 🔭 I launched my first webiste some few weeks back: [website](https://www.chisomloius.github.io)
+- 🔭 I launched my demo website : [website](https://www.chisomloius.github.io)
 -  👨‍💼  I am currently building a webiste called "healthbook" so that communities everywhere in Afica can get Health Care Centers near them fromthe goodswill of others across the globe.
 - 🌱 I’m currently learning everything in between Web Dev. and  Data Sci.
 - 📖 Check out my [Resume].
